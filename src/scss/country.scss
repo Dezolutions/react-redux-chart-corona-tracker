@@ -1,0 +1,36 @@
+.country{
+  display: flex;
+  justify-content: center;
+  width: 95%;
+  margin: 40px auto;
+  &__input{
+    outline: none;
+    border: none;
+    border-bottom: 2px solid rgb(128, 219, 255);
+    margin-right: 10px;
+    padding: 5px;
+    font-size: 20px;
+    width: 90%;
+  }
+  &__btn{
+    border: none;
+    outline: none;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 8px 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: white;
+    background-color: rgb(43, 41, 143);
+  }
+}
+
+.error{
+  border-bottom: 2px solid red;
+}
+.country .error__message{
+  font-size: 14px;
+  color: red;
+  text-align: left;
+  
+}

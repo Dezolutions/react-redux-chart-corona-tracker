@@ -1,0 +1,38 @@
+.cards{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+  &__item{
+    padding: 20px;
+    margin:  20px;
+    width: 280px;
+    border-radius: 5px;
+    box-shadow: 0 0 3px 1px rgb(196, 196, 196);
+    border-bottom: 8px solid rgb(229, 156, 243);
+    &-date{
+      color: rgb(40, 109, 199);
+    }
+    &-title{
+      font-size: 23px;
+      color: rgb(229, 156, 243)
+    }
+    &-value{
+      font-size: 25px;
+      font-weight: 600;
+    }
+  }
+  &__item:nth-child(2){
+    border-bottom: 8px solid rgb(156, 243, 156);
+    .cards__item-title{
+      color: rgb(156, 243, 156);
+    }
+  }
+  &__item:nth-child(3){
+    border-bottom: 8px solid rgb(243, 156, 156);
+    .cards__item-title{
+      color: rgb(243, 156, 156);
+    }
+  }
+}
