@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-redux-chart-corona-tracker/static/css/main.14a2cbac.chunk.css",
+    "main.js": "/react-redux-chart-corona-tracker/static/js/main.4089fc14.chunk.js",
+    "main.js.map": "/react-redux-chart-corona-tracker/static/js/main.4089fc14.chunk.js.map",
+    "runtime-main.js": "/react-redux-chart-corona-tracker/static/js/runtime-main.445c3103.js",
+    "runtime-main.js.map": "/react-redux-chart-corona-tracker/static/js/runtime-main.445c3103.js.map",
+    "static/js/2.7d31115d.chunk.js": "/react-redux-chart-corona-tracker/static/js/2.7d31115d.chunk.js",
+    "static/js/2.7d31115d.chunk.js.map": "/react-redux-chart-corona-tracker/static/js/2.7d31115d.chunk.js.map",
+    "index.html": "/react-redux-chart-corona-tracker/index.html",
+    "static/css/main.14a2cbac.chunk.css.map": "/react-redux-chart-corona-tracker/static/css/main.14a2cbac.chunk.css.map",
+    "static/js/2.7d31115d.chunk.js.LICENSE.txt": "/react-redux-chart-corona-tracker/static/js/2.7d31115d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.445c3103.js",
+    "static/js/2.7d31115d.chunk.js",
+    "static/css/main.14a2cbac.chunk.css",
+    "static/js/main.4089fc14.chunk.js"
+  ]
+}
