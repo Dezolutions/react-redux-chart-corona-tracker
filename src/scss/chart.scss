@@ -1,4 +1,10 @@
 .chart{
   width: 75%;
+  min-height: 300px;
   margin: 30px auto;
+}
+@media screen and (max-width:500px){
+  .chart{
+    width: 90%;
+  }
 }
